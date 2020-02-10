@@ -1,0 +1,14 @@
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/bin/Debug/netcoreapp2.2/portfolio_1.deps.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/bin/Debug/netcoreapp2.2/portfolio_1.runtimeconfig.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/bin/Debug/netcoreapp2.2/portfolio_1.runtimeconfig.dev.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/bin/Debug/netcoreapp2.2/portfolio_1.dll
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/bin/Debug/netcoreapp2.2/portfolio_1.pdb
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.RazorAssemblyInfo.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.RazorAssemblyInfo.cs
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.AssemblyInfo.cs
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.RazorTargetAssemblyInfo.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.dll
+/Users/melissaa.martinez/Desktop/Csharp_Stack/portfolio_1/obj/Debug/netcoreapp2.2/portfolio_1.pdb
